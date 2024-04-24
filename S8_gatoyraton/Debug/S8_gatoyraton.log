@@ -1,0 +1,35 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  S8_gatoyraton.cpp
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\MyExercise\Semana 8\S8_gatoyraton\S8_gatoyraton\Controladora.h(26,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  (compilando archivo de origen "/S8_gatoyraton.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\MyExercise\Semana 8\S8_gatoyraton\S8_gatoyraton\Controladora.h(34,21): warning C4018: '<': no coinciden signed/unsigned
+  (compilando archivo de origen "/S8_gatoyraton.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\MyExercise\Semana 8\S8_gatoyraton\S8_gatoyraton\Controladora.h(51,21): warning C4018: '<': no coinciden signed/unsigned
+  (compilando archivo de origen "/S8_gatoyraton.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\MyExercise\Semana 8\S8_gatoyraton\S8_gatoyraton\Controladora.h(62,21): warning C4018: '<': no coinciden signed/unsigned
+  (compilando archivo de origen "/S8_gatoyraton.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\MyExercise\Semana 8\S8_gatoyraton\S8_gatoyraton\Controladora.h(72,21): warning C4018: '<': no coinciden signed/unsigned
+  (compilando archivo de origen "/S8_gatoyraton.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\MyExercise\Semana 8\S8_gatoyraton\S8_gatoyraton\Controladora.h(103,21): warning C4018: '<': no coinciden signed/unsigned
+  (compilando archivo de origen "/S8_gatoyraton.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\MyExercise\Semana 8\S8_gatoyraton\S8_gatoyraton\Controladora.h(123,21): warning C4018: '<': no coinciden signed/unsigned
+  (compilando archivo de origen "/S8_gatoyraton.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\MyExercise\Semana 8\S8_gatoyraton\S8_gatoyraton\S8_gatoyraton.cpp(12,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  (compilando archivo de origen "/S8_gatoyraton.cpp")
+  
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\MyExercise\Semana 8\S8_gatoyraton\S8_gatoyraton\S8_gatoyraton.cpp(33,3): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+  (compilando archivo de origen "/S8_gatoyraton.cpp")
+  
+  Generando código...
+C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\MyExercise\Semana 8\S8_gatoyraton\S8_gatoyraton\Controladora.h(60,1): warning C4700: se utilizó la variable local 'tecla' sin inicializar
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  S8_gatoyraton.vcxproj -> C:\Users\Giakomo\OneDrive - Universidad Peruana de Ciencias\Ciclos UPC\Software\Codes Ciclo 3\MyExercise\Semana 8\S8_gatoyraton\Debug\S8_gatoyraton.exe
